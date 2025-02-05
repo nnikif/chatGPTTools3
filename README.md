@@ -1,4 +1,3 @@
-(
 # GPT Extraction Tools
 
 This project provides tools for extracting and processing HTML content, specifically focusing on user and assistant messages. The tools include functionality for filtering HTML content, converting HTML to Markdown, and saving user and assistant message pairs to separate files.
